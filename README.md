@@ -81,7 +81,3 @@ All notebooks run on **Kaggle (free tier)** — no local setup needed.
 **Historically grounded A/B baseline:** Repurchase rate derived from actual midpoint observation window, not assumed.
 
 ---
-
-## Resume Line
-
-> Built end-to-end retail intelligence pipeline on 1.37M customers and 106K SKUs — RFM segmentation, XGBoost churn classifier (AUC 0.8477) with SHAP explainability, ALS hybrid recommender (MAP@12), NLP style clustering via TF-IDF, Prophet demand forecasting — culminating in a statistically validated A/B reactivation simulation projecting incremental revenue lift on At Risk cohort.
